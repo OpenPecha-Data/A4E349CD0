@@ -1,0 +1,38 @@
+segment_sources:
+  PF314F7D4:
+    type: origin_type
+    relation: translation
+    language: sa
+  P557F46A8:
+    type: origin_type
+    relation: translation
+    language: bo
+  P9B06AA97:
+    type: origin_type
+    relation: translation
+    language: sa
+  P42C02388:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  416f5593bfb043f78744b9ccc3990c19:
+    PF314F7D4: None
+    P557F46A8: 465ebef9615843748508351d7e4afb50
+    P9B06AA97: dbd49b5a080d474fb40a5409cbf45eb8
+    P42C02388: dd838cd1571b4f2bb0db995d5c18dff2
+  4644706988ac44b6af1edf6e74eb6745:
+    PF314F7D4: None
+    P557F46A8: 5c2d2a99f9e44de3a07f2afff555e5c1
+    P9B06AA97: 4d49b65fa30c422caeb8e3a128145ce0
+    P42C02388: 16bf9d12597145fdad23e9c1847ba779
+  3670c3817cf94e6195005932a842ff44:
+    PF314F7D4: None
+    P557F46A8: ac2f505db7344c3788de60900029c910
+    P9B06AA97: 419a2bdb9ea944c48de4947605eeffad
+    P42C02388: 8b393bfcf3a9426cb85d65cc2f7ead07
+  0491d9ccdd27471a9c4afc06c8e5faad:
+    PF314F7D4: None
+    P557F46A8: 0e9b6b0c558242d7825cc7bfd85ba7f4
+    P9B06AA97: a0801c2501264ab0a585da793c2d116d
+    P42C02388: 4d000dbd3cc741bdaa6bafb4592565fa

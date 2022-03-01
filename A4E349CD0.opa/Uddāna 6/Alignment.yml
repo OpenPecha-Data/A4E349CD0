@@ -1,0 +1,23 @@
+segment_sources:
+  PF314F7D4:
+    type: origin_type
+    relation: translation
+    language: sa
+  P557F46A8:
+    type: origin_type
+    relation: translation
+    language: bo
+  P9B06AA97:
+    type: origin_type
+    relation: translation
+    language: sa
+  P42C02388:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3ffdda2d2a66460aac0f74ed554aab47:
+    PF314F7D4: f8fd6be7e9c44d4299b33359beab0528
+    P557F46A8: 3ff212fb870d40549bb63a4c8477c176
+    P9B06AA97: 91e2bdc36b6b4662ad62a82180d3e59d
+    P42C02388: fc40700148d54249a393907e1d605fc2
